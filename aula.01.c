@@ -3,7 +3,7 @@
 int main ()
 {
 	int numero[5];
-	int soma = 0, maior, menor, qnt = 0, qnt2 = 0;
+	int soma = 0, maior = 0, menor = 100, qnt = 0, qnt2 = 0;
 	double media = 0, porcentagem = 0;
 	int i;
 	
